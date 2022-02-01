@@ -15,7 +15,7 @@ const dbOption = {
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "alvaro4278082",
+    password: "password",
     database: 'inventario_productos'
 }
 
